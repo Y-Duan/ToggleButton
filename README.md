@@ -1,7 +1,7 @@
 # ToggleButton
 滑动开关
 ![](https://s31.aconvert.com/convert/p3r68-cdx67/9os34-wbd9l.gif)
-###简单使用
+##简单使用
 1. 将toggle-1.0.aar文件放入libs目录下
 2. 在build.gradle中加入依赖<br/>implementation(name: 'toggle-1.0', ext: 'aar')
 ###以上两步导入成功就可以使用了
