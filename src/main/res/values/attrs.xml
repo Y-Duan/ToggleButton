@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--自定义开关view-->
+    <declare-styleable name="ToggleButton">
+        <attr name="btn_open_bg" format="reference" />
+        <attr name="btn_close_bg" format="reference" />
+        <attr name="btn_slide_bg" format="reference" />
+        <attr name="btn_left_right_padding" format="dimension" />
+        <attr name="btn_bg_width" format="dimension" />
+        <attr name="btn_bg_height" format="dimension" />
+        <attr name="btn_slide_bg_width" format="dimension" />
+        <attr name="btn_slide_bg_height" format="dimension" />
+    </declare-styleable>
+</resources>
